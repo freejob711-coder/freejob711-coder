@@ -48,7 +48,7 @@ I'm an **IT Engineer** and **Flutter Developer** passionate about building **hig
 ---
 
 ## 📊 GitHub Stats  
-![Shakib's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShakibAlhashmi&show_icons=true&theme=radical)
+![WaleeedDev GitHub stats](https://github-readme-stats.vercel.app/api?username=ShakibAlhashmi&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShakibAlhashmi&layout=compact&theme=radical)
 
 ---
